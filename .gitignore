@@ -1,0 +1,9 @@
+.filter_bot/
+__pycache__/
+*.py[cod]
+samples/*.jsonl
+node_modules/
+.env
+.dev.vars
+.wrangler/
+worker/.wrangler/
